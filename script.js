@@ -1,3 +1,5 @@
+// start js
+
 
 // function constractor to create 2 object "marwan , osama"
 
